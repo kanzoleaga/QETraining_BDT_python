@@ -11,93 +11,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginModule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/EBuy/LoginModule.py">
+      <file leaf-file-name="withdrawal.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/features/withdrawal.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setGetEmployee.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/PersonEmployee/setGetEmployee.py">
+      <file leaf-file-name="fixedAmountWithdrawal.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/fixedAmountWithdrawal.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalExam/application.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FinalExam/Person.py">
+      <file leaf-file-name="FeatureScenarioOutline.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BDDhomeworkOne.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/BDDhomeworkOne.txt">
+      <file leaf-file-name="ResultsEnvironment.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/test.feature">
+      <file leaf-file-name="environment.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeMyProfile.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserManagement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="homework.feature" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/homework.feature">
+      <file leaf-file-name="stepsFixedAmountWithdraw.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/steps/stepsFixedAmountWithdraw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <state relative-caret-position="255">
+              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SMS_store.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/SMS/SMS_store.py">
+      <file leaf-file-name="stepsFixedAmountWithdraw.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/steps/stepsFixedAmountWithdraw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="92" lean-forward="false" selection-start-line="27" selection-start-column="92" selection-end-line="27" selection-end-column="109" />
+            <state relative-caret-position="306">
+              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/FinalExam/application.log">
+      <file leaf-file-name="stepsample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/steps/stepsample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -141,6 +149,18 @@
         <option value="$PROJECT_DIR$/Classes/FinalExam/setGetEmployee.py" />
         <option value="$PROJECT_DIR$/BEHAVE/Test/features/test.feature" />
         <option value="$PROJECT_DIR$/BEHAVE/Test/features/homework.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/features/withdrawal.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/steps/stepsample.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/features/fixedAmountWithdrawal.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/steps/stepsFixedAmountWithdraw.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/steps/stepsFixedAmountWithdraw.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/fixedAmountWithdrawal.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/FeatureScenarioOutline.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py" />
       </list>
     </option>
   </component>
@@ -149,6 +169,25 @@
     <option name="y" value="20" />
     <option name="width" value="1260" />
     <option name="height" value="944" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -181,19 +220,30 @@
               <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
               <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
               <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
               <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
               <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
+              <item name="FixedAmountWithSenarioOutline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
+              <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
+              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
+              <item name="FixedAmountWithSenarioOutline" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
               <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
-              <item name="FinalExam" type="462c0819:PsiDirectoryNode" />
+              <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
+              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
+              <item name="FixedAmountWithSenarioOutline" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,13 +257,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\features" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixeAmount\steps" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixeAmount\features" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\SMS" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\steps" />
       <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\FinalExam" />
       <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\FinalExam\CalculateSalary" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\SMS" />
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\PersonEmployee" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,7 +400,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -355,7 +408,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30898875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5382022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -541,18 +594,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/test.feature">
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/homework.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/homework.feature">
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Test/features/test.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="136">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/steps/stepsample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/features/withdrawal.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/fixedAmountWithdrawal.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/steps/stepsFixedAmountWithdraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/steps/stepsFixedAmountWithdraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
