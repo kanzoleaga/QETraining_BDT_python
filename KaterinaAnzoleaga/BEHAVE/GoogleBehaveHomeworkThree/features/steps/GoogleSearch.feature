@@ -32,7 +32,7 @@ Scenario: mic is used to enter an invalid text to search for
 Given that I am on google.com home page
 When I press the mic option
     And I enter an audio record to search for
-    And the audio CANOT be 'translated' to a valid text
+    But the audio CANNOT be 'translated' to a valid text
     And press 'Buscar con Google'
 Then the message 'No se ha entendido 'Volver a intentarlo'' message is displayed
     And the option to enter another audio record is displayed
