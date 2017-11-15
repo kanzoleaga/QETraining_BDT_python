@@ -31,7 +31,7 @@ if number >= 3 and number <= 15:
             effective = int (input('Effective pieces: '))
             anEmplo.setEfectivePieces (effective)
             defective = int (input('Defective pieces: '))
-            anEmplo.setDefec3tivePieces(defective)
+            anEmplo.setDefectivePieces(defective)
         elif deparment == 'Sales':
             message = 'Sales employee being entered. Getting number of pieces sold'
             login_msg('debug', message)
