@@ -11,31 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="withdrawal.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/features/withdrawal.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fixedAmountWithdrawal.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/fixedAmountWithdrawal.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FeatureScenarioOutline.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -44,48 +24,68 @@
       <file leaf-file-name="ResultsEnvironment.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+            <state relative-caret-position="179">
+              <caret line="62" column="35" lean-forward="false" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="environment.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="environment.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeMyProfile.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature">
+      <file leaf-file-name="environment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/environment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserManagement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py">
+      <file leaf-file-name="feature1.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/features/feature1.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stepsFixedAmountWithdraw.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/steps/stepsFixedAmountWithdraw.py">
+      <file leaf-file-name="theSteps.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/steps/theSteps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/features/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchClientPrice.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/CustomerSearchBehave_4/features/SearchClientPrice.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -94,18 +94,18 @@
       <file leaf-file-name="stepsFixedAmountWithdraw.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/steps/stepsFixedAmountWithdraw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stepsample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/steps/stepsample.py">
+      <file leaf-file-name="myYaml.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/Config/myYaml.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -158,9 +158,15 @@
         <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixeAmount/features/FeatureScenarioOutline.feature" />
         <option value="$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature" />
         <option value="$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py" />
-        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature" />
         <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/CustomerSearchBehave_4/features/SearchClientPrice.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/Config/myYaml.yml" />
         <option value="$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/YamlSample/configuration/config.yml" />
+        <option value="$PROJECT_DIR$/BEHAVE/YamlSample/environment.py" />
+        <option value="$PROJECT_DIR$/BEHAVE/YamlSample/features/feature1.feature" />
+        <option value="$PROJECT_DIR$/BEHAVE/YamlSample/steps/theSteps.py" />
       </list>
     </option>
   </component>
@@ -233,16 +239,20 @@
               <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
               <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
               <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
-              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
-              <item name="FixedAmountWithSenarioOutline" type="462c0819:PsiDirectoryNode" />
+              <item name="YamlSample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
+              <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
+              <item name="YamlSample" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KaterinaAnzoleaga" type="b2602c69:ProjectViewProjectNode" />
               <item name="KaterinaAnzoleaga" type="462c0819:PsiDirectoryNode" />
               <item name="BEHAVE" type="462c0819:PsiDirectoryNode" />
-              <item name="Witdrawal" type="462c0819:PsiDirectoryNode" />
-              <item name="FixedAmountWithSenarioOutline" type="462c0819:PsiDirectoryNode" />
+              <item name="YamlSample" type="462c0819:PsiDirectoryNode" />
               <item name="steps" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -258,11 +268,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\features" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\YamlSample\features" />
       <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline" />
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixeAmount\steps" />
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixeAmount\features" />
-      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\Classes\SMS" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\steps" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\Config" />
+      <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\features" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\PycharmProjects\QETraining_BDT_python\KaterinaAnzoleaga\BEHAVE\Witdrawal\FixedAmountWithSenarioOutline\steps" />
@@ -425,7 +435,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -442,7 +454,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -565,7 +577,7 @@
         <state relative-caret-position="68">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -645,7 +657,7 @@
     <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/steps/UserManagement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -653,39 +665,95 @@
     <entry file="file://$PROJECT_DIR$/BEHAVE/BackgroundsClass/features/ChangeMyProfile.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/ResultsEnvironment.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        <state relative-caret-position="179">
+          <caret line="62" column="35" lean-forward="false" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/CustomerSearchBehave_4/features/SearchClientPrice.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/steps/stepsFixedAmountWithdraw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/Config/myYaml.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/features/FeatureScenarioOutline.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BEHAVE/Witdrawal/FixedAmountWithSenarioOutline/environment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/configuration/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/features/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/features/feature1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BEHAVE/YamlSample/steps/theSteps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding />
         </state>
       </provider>

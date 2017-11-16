@@ -1,5 +1,14 @@
+import yaml
+
+global generic_data
+generic_data = yaml.load(open("Config/myYaml.yml"))
+
 def before_all (context):
     print("************************ BEFORE ALL *************************************************")
+    context.host = generic_data['host']
+    context.method = generic_data['method']
+    context.code = generic_data['code']
+
 def before_feature (context, feature):
     if 'try' in feature.tags:
         print ("//////////////////////////FEATURE TRY TAGS//////////////////////////////////////////////")
