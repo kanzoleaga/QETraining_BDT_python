@@ -1,17 +1,27 @@
 Feature: Search Total Price
   Scenario Outline: Search of total price for a list of clients
-  Given I want to serach the purchacePrice from <ClientName>
-    When I enter Juan's <ClientID>
-    Then I get the <PurchasePrice> from list of prices
-        And I get the <Index> of the element in the list
+  Given I have the following list of clients
+    | name     | id  |
+    | Juan     | 001 |
+    | Pedro    | 002 |
+    | Ana      | 003 |
+    | Luisa    | 004 |
+    | Lola     | 005 |
 
-    Examples:
-    |ClientName|ClientID|PurchasePrice|Index|
-    |Juan      |001     |25           |0    |
-    |Pedro     |002     |125          |1    |
-    |Ana       |003     |22           |2    |
-    |Luisa     |004     |88           |3    |
-    |Lola      |005     |109          |4    |
+
+    When  I have the following list of prices
+    | id  | price |
+    | 001 | 25    |
+    | 002 | 125   |
+    | 003 | 22    |
+    | 004 | 88    |
+    | 005 | 109   |
+    And I enter Juan as the name
+    And I enter 001 as the id
+    Then I get the 25 as the purchase price from list of prices
+
+
+
 
 
 
