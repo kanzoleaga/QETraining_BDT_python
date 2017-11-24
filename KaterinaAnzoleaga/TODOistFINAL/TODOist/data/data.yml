@@ -1,0 +1,12 @@
+project:
+   project_name: {"name":"Movies to watch"}
+   project_name_new: {"name":"New Movies to watch again"}
+
+
+task1:
+  task_name: {"content": "PreTest"}
+
+labels:
+   label_name: {"name": "Lavel 1"}
+   new_project_name : {"name": "New Lavel 1 name"}
+
